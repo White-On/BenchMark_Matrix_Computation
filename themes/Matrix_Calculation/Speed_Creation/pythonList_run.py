@@ -1,3 +1,3 @@
 import sys
 
-list = [0] * sys.argv[1]
+list = [0] * int(sys.argv[1])
